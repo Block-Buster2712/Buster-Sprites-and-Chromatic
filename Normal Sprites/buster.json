@@ -1,0 +1,109 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "buster idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "buster right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "buster left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"playerOffsets": [
+				0,
+				4
+			],
+			"name": "buster down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "buster up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/buster",
+	"position": [
+		-30,
+		260
+	],
+	"player_camera_position": [
+		460,
+		-230
+	],
+	"spriteType": "SPARROW",
+	"playerposition": [
+		-20,
+		260
+	],
+	"healthicon": "buster",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		243,
+		255
+	],
+	"camera_position": [
+		-300,
+		-220
+	],
+	"noteSkin": "null",
+	"sing_duration": 4,
+	"isPlayerChar": false,
+	"scale": 2.45
+}

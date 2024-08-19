@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="buster.png">
+<SubTexture name="buster down0000" x="0" y="0" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="buster down0001" x="480" y="0" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="buster idle0000" x="0" y="360" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="buster idle0001" x="480" y="360" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="buster idle0002" x="960" y="0" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="buster idle0003" x="960" y="360" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="buster left0000" x="0" y="720" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="buster left0001" x="480" y="720" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="buster right0000" x="960" y="720" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="buster right0001" x="0" y="1080" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="buster up0000" x="480" y="1080" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="buster up0001" x="960" y="1080" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+</TextureAtlas>
