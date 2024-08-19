@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buster-png.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Up30000" x="0" y="2840" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Up20000" x="930" y="710" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Up0000" x="0" y="0" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Left30000" x="2790" y="1420" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Left20000" x="930" y="2130" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Left0000" x="930" y="0" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Down30000" x="1860" y="2130" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Down20000" x="1860" y="710" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Down0000" x="2790" y="2130" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Right30000" x="0" y="1420" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Right20000" x="1860" y="1420" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Right0000" x="0" y="2130" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Idle50000" x="2790" y="710" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Idle30000" x="930" y="1420" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Idle40000" x="0" y="710" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Idle20000" x="1860" y="0" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+	<SubTexture name="Idle0000" x="2790" y="0" width="930" height="710" frameX="2" frameY="2" frameWidth="926" frameHeight="706"/>
+</TextureAtlas>
